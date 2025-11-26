@@ -1,0 +1,673 @@
+year,team,wins,losses,win_loss_perc,points_diff,total_yards,plays_offense,yds_per_play_offense,turnovers,fumbles_lost,first_down,pass_cmp,pass_att,pass_yds,pass_td,pass_int,pass_net_yds_per_att,pass_fd,rush_att,rush_yds,rush_td,rush_yds_per_att,rush_fd,penalties,penalties_yds,pen_fd,score_pct,turnover_pct,exp_pts_tot
+bin_0,New England Patriots,14,bin_0,bin_3,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,Miami Dolphins,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_0,Buffalo Bills,6,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0
+bin_0,New York Jets,6,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1
+bin_0,Baltimore Ravens,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_0,bin_0,bin_3,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_0
+bin_0,Cincinnati Bengals,8,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_0,Pittsburgh Steelers,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,Cleveland Browns,5,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_0,Indianapolis Colts,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_3,bin_1,bin_2
+bin_0,Tennessee Titans,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_0,bin_2,bin_1,bin_1
+bin_0,Jacksonville Jaguars,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_0,Houston Texans,5,bin_2,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0
+bin_0,Kansas City Chiefs,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_3,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_0,bin_2
+bin_0,Denver Broncos,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1
+bin_0,Oakland Raiders,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1
+bin_0,San Diego Chargers,4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_0,Philadelphia Eagles,12,bin_0,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1
+bin_0,Dallas Cowboys,10,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0
+bin_0,Washington Redskins,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,New York Giants,4,bin_2,bin_0,bin_0,bin_1,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2,bin_0
+bin_0,Green Bay Packers,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_0,Minnesota Vikings,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_1,bin_2
+bin_0,Chicago Bears,7,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0
+bin_0,Detroit Lions,5,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_0,bin_0,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0
+bin_0,Carolina Panthers,11,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_0,New Orleans Saints,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_0,Tampa Bay Buccaneers,7,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0
+bin_0,Atlanta Falcons,5,bin_2,bin_1,bin_0,bin_0,bin_0,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1
+bin_0,St. Louis Rams,12,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_0,Seattle Seahawks,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1
+bin_0,San Francisco 49ers,7,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1
+bin_0,Arizona Cardinals,4,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0
+bin_0,New England Patriots,14,bin_0,bin_3,bin_3,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2
+bin_0,New York Jets,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1
+bin_0,Buffalo Bills,9,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0
+bin_0,Miami Dolphins,4,bin_2,bin_0,bin_1,bin_0,bin_1,bin_0,bin_3,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_3,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_1,bin_2,bin_0,bin_2,bin_0
+bin_0,Pittsburgh Steelers,15,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1
+bin_0,Baltimore Ravens,9,bin_1,bin_2,bin_2,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0
+bin_0,Cincinnati Bengals,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_0,Cleveland Browns,4,bin_2,bin_0,bin_1,bin_0,bin_0,bin_1,bin_3,bin_2,bin_0,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0
+bin_0,Indianapolis Colts,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_3,bin_0,bin_0,bin_2,bin_2,bin_1,bin_3,bin_3,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_3,bin_1,bin_2
+bin_0,Jacksonville Jaguars,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_0,Houston Texans,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,Tennessee Titans,5,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_0,San Diego Chargers,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_0,Denver Broncos,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_3,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_3,bin_2,bin_2,bin_1
+bin_0,Kansas City Chiefs,7,bin_2,bin_1,bin_2,bin_3,bin_2,bin_3,bin_1,bin_1,bin_3,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_0,Oakland Raiders,5,bin_2,bin_1,bin_0,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_0,Philadelphia Eagles,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_0,New York Giants,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0
+bin_0,Dallas Cowboys,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_0,Washington Redskins,6,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0
+bin_0,Green Bay Packers,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2
+bin_0,Minnesota Vikings,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_0,Detroit Lions,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,Chicago Bears,5,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_3,bin_3,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_0,bin_2,bin_0
+bin_0,Atlanta Falcons,11,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1
+bin_0,New Orleans Saints,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_3,bin_2,bin_1,bin_1,bin_1
+bin_0,Carolina Panthers,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_0,Tampa Bay Buccaneers,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_1,bin_0,bin_2,bin_0
+bin_0,Seattle Seahawks,9,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_0,St. Louis Rams,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_3,bin_1
+bin_0,Arizona Cardinals,6,bin_2,bin_1,bin_1,bin_0,bin_2,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0,bin_1,bin_2,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_3,bin_1,bin_1,bin_0
+bin_0,San Francisco 49ers,2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_0,bin_3,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_3,bin_0
+bin_0,New England Patriots,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1
+bin_0,Miami Dolphins,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,Buffalo Bills,5,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0
+bin_0,New York Jets,4,bin_2,bin_0,bin_1,bin_0,bin_0,bin_0,bin_2,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_0,Cincinnati Bengals,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1
+bin_0,Pittsburgh Steelers,11,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_0,bin_3,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1
+bin_0,Baltimore Ravens,6,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_3,bin_2,bin_1,bin_1,bin_2,bin_0
+bin_0,Cleveland Browns,6,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_2,bin_0
+bin_0,Indianapolis Colts,14,bin_0,bin_3,bin_3,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_3,bin_2,bin_2,bin_1,bin_2,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_0,Jacksonville Jaguars,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1
+bin_0,Tennessee Titans,4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_0,bin_1,bin_1,bin_0
+bin_0,Houston Texans,2,bin_3,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0
+bin_0,Denver Broncos,13,bin_0,bin_3,bin_2,bin_2,bin_2,bin_2,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_2,bin_1,bin_3,bin_2,bin_3,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1
+bin_0,Kansas City Chiefs,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_0,bin_1,bin_2,bin_1,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_0,San Diego Chargers,9,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1
+bin_0,Oakland Raiders,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_3,bin_3,bin_1,bin_1,bin_1,bin_1
+bin_0,New York Giants,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_3,bin_2,bin_2,bin_2,bin_1,bin_1
+bin_0,Washington Redskins,10,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,Dallas Cowboys,9,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_3,bin_1,bin_2,bin_1
+bin_0,Philadelphia Eagles,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_3,bin_1,bin_0,bin_2,bin_1
+bin_0,Chicago Bears,11,bin_1,bin_2,bin_2,bin_0,bin_0,bin_0,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0
+bin_0,Minnesota Vikings,9,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_0,Detroit Lions,5,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_1,bin_2,bin_0,bin_2,bin_1
+bin_0,Green Bay Packers,4,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_3,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_2,bin_1,bin_3,bin_1
+bin_0,Tampa Bay Buccaneers,11,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0
+bin_0,Carolina Panthers,11,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1
+bin_0,Atlanta Falcons,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,New Orleans Saints,3,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_3,bin_3,bin_1,bin_3,bin_0
+bin_0,Seattle Seahawks,13,bin_0,bin_3,bin_3,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_3,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2
+bin_0,St. Louis Rams,6,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_3,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_0,Arizona Cardinals,5,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3,bin_2,bin_1,bin_2,bin_3,bin_2,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_3,bin_3,bin_1,bin_1,bin_2,bin_1
+bin_0,San Francisco 49ers,4,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0
+bin_0,New England Patriots,12,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,New York Jets,10,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1
+bin_0,Buffalo Bills,7,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_2,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1
+bin_0,Miami Dolphins,6,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1
+bin_0,Baltimore Ravens,13,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1
+bin_0,Cincinnati Bengals,8,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1
+bin_0,Pittsburgh Steelers,8,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_3,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1
+bin_0,Cleveland Browns,4,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_3,bin_2,bin_0,bin_1,bin_1,bin_1,bin_0,bin_3,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_3,bin_0
+bin_0,Indianapolis Colts,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_2
+bin_0,Tennessee Titans,8,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_0,Jacksonville Jaguars,8,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1
+bin_0,Houston Texans,6,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_0,San Diego Chargers,14,bin_0,bin_3,bin_3,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_3,bin_2,bin_2,bin_1,bin_1,bin_0,bin_2,bin_0,bin_2
+bin_0,Kansas City Chiefs,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1
+bin_0,Denver Broncos,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1
+bin_0,Oakland Raiders,2,bin_3,bin_0,bin_0,bin_0,bin_1,bin_0,bin_3,bin_3,bin_0,bin_0,bin_1,bin_0,bin_0,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_1,bin_0,bin_3,bin_0
+bin_0,Philadelphia Eagles,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1
+bin_0,Dallas Cowboys,9,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1
+bin_0,New York Giants,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_0,Washington Redskins,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_0,Chicago Bears,13,bin_0,bin_3,bin_3,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1
+bin_0,Green Bay Packers,8,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_0,Minnesota Vikings,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2,bin_0
+bin_0,Detroit Lions,3,bin_3,bin_0,bin_1,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_1,bin_1,bin_3,bin_1
+bin_0,New Orleans Saints,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_3,bin_2,bin_2,bin_1,bin_2,bin_0,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1
+bin_0,Carolina Panthers,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1
+bin_0,Atlanta Falcons,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_0,bin_2,bin_3,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_0,Tampa Bay Buccaneers,4,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0
+bin_0,Seattle Seahawks,9,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_0
+bin_0,St. Louis Rams,8,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_0,bin_1
+bin_0,San Francisco 49ers,7,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1
+bin_0,Arizona Cardinals,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_0,New England Patriots,16,bin_0,bin_3,bin_3,bin_3,bin_2,bin_3,bin_0,bin_0,bin_3,bin_2,bin_2,bin_3,bin_3,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_1,bin_3,bin_0,bin_2
+bin_0,Buffalo Bills,7,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1
+bin_0,New York Jets,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1
+bin_0,Miami Dolphins,1,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1
+bin_0,Pittsburgh Steelers,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_1,bin_2
+bin_0,Cleveland Browns,10,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1
+bin_0,Cincinnati Bengals,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_0,Baltimore Ravens,5,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_3,bin_3,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0
+bin_0,Indianapolis Colts,13,bin_0,bin_3,bin_3,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_3,bin_1,bin_2
+bin_0,Jacksonville Jaguars,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2
+bin_0,Tennessee Titans,10,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1
+bin_0,Houston Texans,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_2,bin_3,bin_1
+bin_0,San Diego Chargers,11,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1
+bin_0,Denver Broncos,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1
+bin_0,Kansas City Chiefs,4,bin_2,bin_0,bin_1,bin_0,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_0,bin_2,bin_1
+bin_0,Oakland Raiders,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_0,Dallas Cowboys,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_0,New York Giants,10,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_0,Washington Redskins,9,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_0
+bin_0,Philadelphia Eagles,8,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1
+bin_0,Green Bay Packers,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1
+bin_0,Minnesota Vikings,8,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_0,Detroit Lions,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_0,bin_2,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_0,Chicago Bears,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0
+bin_0,Tampa Bay Buccaneers,9,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1
+bin_0,Carolina Panthers,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_0,New Orleans Saints,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_3,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1
+bin_0,Atlanta Falcons,4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_0,bin_1,bin_1,bin_0
+bin_0,Seattle Seahawks,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1
+bin_0,Arizona Cardinals,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_3,bin_3,bin_1,bin_1,bin_2,bin_1
+bin_0,San Francisco 49ers,5,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_2,bin_0
+bin_0,St. Louis Rams,3,bin_3,bin_0,bin_0,bin_1,bin_1,bin_0,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_3,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0
+bin_0,Miami Dolphins,11,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_0,bin_1
+bin_0,New England Patriots,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_1,bin_3,bin_1,bin_2
+bin_0,New York Jets,9,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_1,bin_2,bin_2,bin_1
+bin_0,Buffalo Bills,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_2,bin_1
+bin_0,Pittsburgh Steelers,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0
+bin_0,Baltimore Ravens,11,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0
+bin_0,Cincinnati Bengals,4,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_0
+bin_0,Cleveland Browns,4,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0
+bin_0,Tennessee Titans,13,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0,bin_1
+bin_0,Indianapolis Colts,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2
+bin_0,Houston Texans,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_0,Jacksonville Jaguars,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_0,San Diego Chargers,8,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2
+bin_0,Denver Broncos,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_2
+bin_0,Oakland Raiders,5,bin_2,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0
+bin_0,Kansas City Chiefs,2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1
+bin_0,New York Giants,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_1,bin_2,bin_3,bin_0,bin_1
+bin_0,Philadelphia Eagles,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1
+bin_0,Dallas Cowboys,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_1,bin_2,bin_1
+bin_0,Washington Redskins,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1
+bin_0,Minnesota Vikings,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_0,Chicago Bears,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1
+bin_0,Green Bay Packers,6,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2,bin_1,bin_2
+bin_0,Detroit Lions,0,bin_3,bin_0,bin_0,bin_0,bin_0,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_0,Carolina Panthers,12,bin_0,bin_2,bin_2,bin_2,bin_0,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_2,bin_3,bin_2,bin_1,bin_1,bin_0,bin_0,bin_2,bin_1,bin_1
+bin_0,Atlanta Falcons,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_3,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2
+bin_0,Tampa Bay Buccaneers,9,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1
+bin_0,New Orleans Saints,8,bin_1,bin_1,bin_2,bin_3,bin_2,bin_3,bin_1,bin_0,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_3,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2
+bin_0,Arizona Cardinals,9,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_2,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_0,San Francisco 49ers,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_0,Seattle Seahawks,4,bin_2,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1
+bin_0,St. Louis Rams,2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_0
+bin_1,New England Patriots,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_1,New York Jets,9,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_0,bin_3,bin_3,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1
+bin_1,Miami Dolphins,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_0,bin_1,bin_2,bin_1
+bin_1,Buffalo Bills,6,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0
+bin_1,Cincinnati Bengals,10,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_1,Baltimore Ravens,9,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_0,bin_2,bin_1,bin_1
+bin_1,Pittsburgh Steelers,9,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1
+bin_1,Cleveland Browns,5,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_0
+bin_1,Indianapolis Colts,14,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2
+bin_1,Houston Texans,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_3,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2
+bin_1,Tennessee Titans,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1
+bin_1,Jacksonville Jaguars,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1
+bin_1,San Diego Chargers,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_3,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_3,bin_1,bin_2
+bin_1,Denver Broncos,8,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_1,Oakland Raiders,5,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_2,bin_1,bin_0,bin_2,bin_0
+bin_1,Kansas City Chiefs,4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1
+bin_1,Dallas Cowboys,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_1,Philadelphia Eagles,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1
+bin_1,New York Giants,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_1,Washington Redskins,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1
+bin_1,Minnesota Vikings,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2
+bin_1,Green Bay Packers,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2
+bin_1,Chicago Bears,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_3,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0
+bin_1,Detroit Lions,2,bin_3,bin_0,bin_0,bin_1,bin_2,bin_0,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_3,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_2,bin_0,bin_3,bin_0
+bin_1,New Orleans Saints,13,bin_0,bin_3,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_3,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2
+bin_1,Atlanta Falcons,9,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1
+bin_1,Carolina Panthers,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1
+bin_1,Tampa Bay Buccaneers,3,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_3,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_2,bin_0
+bin_1,Arizona Cardinals,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_1,San Francisco 49ers,8,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_1,Seattle Seahawks,5,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_1,St. Louis Rams,1,bin_3,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_2,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0
+bin_1,New England Patriots,14,bin_0,bin_3,bin_3,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_0,bin_2
+bin_1,New York Jets,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_0,bin_1,bin_1,bin_1
+bin_1,Miami Dolphins,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1
+bin_1,Buffalo Bills,4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1
+bin_1,Pittsburgh Steelers,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2,bin_1,bin_1
+bin_1,Baltimore Ravens,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_1,Cleveland Browns,5,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_1,Cincinnati Bengals,4,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_1,Indianapolis Colts,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_3,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_1,Jacksonville Jaguars,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_1,Houston Texans,6,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_1,Tennessee Titans,6,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_1,Kansas City Chiefs,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_0,bin_2,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_3,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1
+bin_1,San Diego Chargers,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_3,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_1,Oakland Raiders,8,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_3,bin_3,bin_2,bin_1,bin_1,bin_1
+bin_1,Denver Broncos,4,bin_2,bin_0,bin_0,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_1,Philadelphia Eagles,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_3,bin_1,bin_2,bin_2,bin_0,bin_2,bin_1,bin_2
+bin_1,New York Giants,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_3,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1
+bin_1,Dallas Cowboys,6,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_1,Washington Redskins,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1
+bin_1,Chicago Bears,11,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0
+bin_1,Green Bay Packers,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1
+bin_1,Detroit Lions,6,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_1,Minnesota Vikings,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1
+bin_1,Atlanta Falcons,13,bin_0,bin_3,bin_2,bin_1,bin_2,bin_1,bin_0,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_3,bin_2,bin_0,bin_1
+bin_1,New Orleans Saints,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_3,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_1,Tampa Bay Buccaneers,10,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1
+bin_1,Carolina Panthers,2,bin_3,bin_0,bin_0,bin_0,bin_1,bin_0,bin_3,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0
+bin_1,Seattle Seahawks,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_2,bin_0
+bin_1,St. Louis Rams,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0
+bin_1,San Francisco 49ers,6,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1
+bin_1,Arizona Cardinals,5,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_0,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0
+bin_1,New England Patriots,13,bin_0,bin_3,bin_2,bin_3,bin_2,bin_3,bin_0,bin_0,bin_3,bin_2,bin_2,bin_3,bin_2,bin_1,bin_3,bin_3,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_0,bin_2
+bin_1,New York Jets,8,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_1,Miami Dolphins,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_1,Buffalo Bills,6,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_1,Baltimore Ravens,12,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1
+bin_1,Pittsburgh Steelers,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_1,Cincinnati Bengals,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_1,Cleveland Browns,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1
+bin_1,Houston Texans,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1
+bin_1,Tennessee Titans,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_1,Jacksonville Jaguars,5,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0
+bin_1,Indianapolis Colts,2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1
+bin_1,Denver Broncos,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_3,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1
+bin_1,San Diego Chargers,8,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_1,Oakland Raiders,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_3,bin_3,bin_2,bin_2,bin_2,bin_1
+bin_1,Kansas City Chiefs,7,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1
+bin_1,New York Giants,9,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_3,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_1,Philadelphia Eagles,8,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_3,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_3,bin_2,bin_2,bin_1,bin_2,bin_2,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_1,Dallas Cowboys,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1
+bin_1,Washington Redskins,5,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_2,bin_0
+bin_1,Green Bay Packers,15,bin_0,bin_3,bin_3,bin_2,bin_1,bin_3,bin_0,bin_0,bin_2,bin_2,bin_1,bin_3,bin_3,bin_0,bin_3,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_2,bin_3,bin_0,bin_2
+bin_1,Detroit Lions,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_1,Chicago Bears,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_1,Minnesota Vikings,3,bin_3,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_3,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_1,New Orleans Saints,13,bin_0,bin_3,bin_3,bin_3,bin_3,bin_3,bin_1,bin_0,bin_3,bin_3,bin_3,bin_3,bin_3,bin_1,bin_3,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_3
+bin_1,Atlanta Falcons,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_1,Carolina Panthers,6,bin_2,bin_1,bin_1,bin_2,bin_1,bin_3,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_3,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_1,Tampa Bay Buccaneers,4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_3,bin_1
+bin_1,San Francisco 49ers,13,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_0,bin_1
+bin_1,Arizona Cardinals,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_1,Seattle Seahawks,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_1,St. Louis Rams,2,bin_3,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0
+bin_1,New England Patriots,12,bin_0,bin_2,bin_3,bin_3,bin_3,bin_2,bin_0,bin_0,bin_3,bin_2,bin_2,bin_3,bin_2,bin_0,bin_2,bin_3,bin_2,bin_1,bin_3,bin_1,bin_2,bin_1,bin_1,bin_2,bin_3,bin_0,bin_2
+bin_1,Miami Dolphins,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_1,New York Jets,6,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_3,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2,bin_1
+bin_1,Buffalo Bills,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_1,Baltimore Ravens,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_2,bin_2,bin_0,bin_2
+bin_1,Cincinnati Bengals,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1
+bin_1,Pittsburgh Steelers,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_1,Cleveland Browns,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_1,Houston Texans,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2
+bin_1,Indianapolis Colts,11,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1
+bin_1,Tennessee Titans,6,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_1,Jacksonville Jaguars,2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_1,Denver Broncos,13,bin_0,bin_3,bin_3,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_1,San Diego Chargers,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_1,Oakland Raiders,4,bin_2,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_1,Kansas City Chiefs,2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_1,bin_0,bin_2,bin_2,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0
+bin_1,Washington Redskins,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3,bin_0,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_2
+bin_1,New York Giants,9,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_2,bin_3,bin_1,bin_2
+bin_1,Dallas Cowboys,8,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_3,bin_3,bin_3,bin_1,bin_2,bin_2,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1
+bin_1,Philadelphia Eagles,4,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_3,bin_3,bin_2,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_1,Green Bay Packers,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_2,bin_3,bin_2,bin_0,bin_2
+bin_1,Minnesota Vikings,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1
+bin_1,Chicago Bears,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_1,Detroit Lions,4,bin_2,bin_0,bin_1,bin_3,bin_3,bin_2,bin_2,bin_2,bin_3,bin_3,bin_3,bin_3,bin_1,bin_1,bin_2,bin_3,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1
+bin_1,Atlanta Falcons,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_3,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_3,bin_1,bin_2
+bin_1,Carolina Panthers,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2
+bin_1,New Orleans Saints,7,bin_2,bin_1,bin_1,bin_3,bin_2,bin_3,bin_1,bin_0,bin_2,bin_2,bin_3,bin_3,bin_2,bin_2,bin_2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_1,Tampa Bay Buccaneers,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1
+bin_1,San Francisco 49ers,11,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_1,bin_3,bin_2,bin_1,bin_2,bin_1,bin_2,bin_0,bin_2
+bin_1,Seattle Seahawks,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_1,St. Louis Rams,7,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1
+bin_1,Arizona Cardinals,5,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0
+bin_1,New England Patriots,12,bin_0,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_3,bin_2,bin_1,bin_2
+bin_1,New York Jets,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_1,Miami Dolphins,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_2
+bin_1,Buffalo Bills,6,bin_2,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_1,Cincinnati Bengals,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2
+bin_1,Pittsburgh Steelers,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_1,Baltimore Ravens,8,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2,bin_0,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_1,Cleveland Browns,4,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_3,bin_2,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_1,Indianapolis Colts,11,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_2,bin_2,bin_0,bin_2
+bin_1,Tennessee Titans,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_1,Jacksonville Jaguars,4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1
+bin_1,Houston Texans,2,bin_3,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_3,bin_0,bin_1,bin_2,bin_1
+bin_1,Denver Broncos,13,bin_0,bin_3,bin_3,bin_3,bin_3,bin_3,bin_1,bin_2,bin_3,bin_3,bin_3,bin_3,bin_3,bin_1,bin_3,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_3
+bin_1,Kansas City Chiefs,11,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2
+bin_1,San Diego Chargers,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_3,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_1,bin_3
+bin_1,Oakland Raiders,4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_0,bin_1,bin_2,bin_1
+bin_1,Philadelphia Eagles,10,bin_1,bin_2,bin_2,bin_3,bin_2,bin_3,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_3
+bin_1,Dallas Cowboys,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_0,bin_0,bin_1,bin_2,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_1,New York Giants,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_3,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1
+bin_1,Washington Redskins,3,bin_3,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1
+bin_1,Green Bay Packers,8,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_1,Chicago Bears,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_1,Detroit Lions,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2
+bin_1,Minnesota Vikings,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_2
+bin_1,Carolina Panthers,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_1,New Orleans Saints,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_3,bin_2,bin_3,bin_2,bin_1,bin_2,bin_3,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_3
+bin_1,Atlanta Falcons,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_3,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2
+bin_1,Tampa Bay Buccaneers,4,bin_2,bin_0,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_3,bin_2,bin_1,bin_1,bin_1
+bin_1,Seattle Seahawks,13,bin_0,bin_3,bin_3,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_2,bin_2,bin_1,bin_2
+bin_1,San Francisco 49ers,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2
+bin_1,Arizona Cardinals,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_3,bin_1,bin_2,bin_2
+bin_1,St. Louis Rams,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_2,New England Patriots,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_0,bin_3
+bin_2,Buffalo Bills,9,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_2,Miami Dolphins,8,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2
+bin_2,New York Jets,4,bin_2,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_2,Pittsburgh Steelers,11,bin_1,bin_2,bin_2,bin_3,bin_2,bin_3,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3
+bin_2,Cincinnati Bengals,10,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_2,Baltimore Ravens,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_3
+bin_2,Cleveland Browns,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2
+bin_2,Indianapolis Colts,11,bin_1,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_3,bin_2,bin_2,bin_2
+bin_2,Houston Texans,9,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2
+bin_2,Jacksonville Jaguars,3,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_0,bin_0,bin_0,bin_2,bin_0,bin_0,bin_0,bin_2,bin_0,bin_1,bin_1
+bin_2,Tennessee Titans,2,bin_3,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1
+bin_2,Denver Broncos,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_3
+bin_2,Kansas City Chiefs,9,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_2,San Diego Chargers,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_2,Oakland Raiders,3,bin_3,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_0,bin_0,bin_1,bin_1
+bin_2,Dallas Cowboys,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_3,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3
+bin_2,Philadelphia Eagles,10,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2
+bin_2,New York Giants,6,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_2,Washington Redskins,4,bin_2,bin_0,bin_0,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_3,bin_1,bin_2,bin_2
+bin_2,Green Bay Packers,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_3,bin_0,bin_0,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_3,bin_0,bin_3
+bin_2,Detroit Lions,11,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2
+bin_2,Minnesota Vikings,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_2,Chicago Bears,5,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2
+bin_2,Carolina Panthers,7,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_2,New Orleans Saints,7,bin_2,bin_1,bin_1,bin_3,bin_2,bin_2,bin_2,bin_1,bin_3,bin_3,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_3
+bin_2,Atlanta Falcons,6,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_2,Tampa Bay Buccaneers,2,bin_3,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_2,Seattle Seahawks,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_3,bin_2,bin_3,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_3
+bin_2,Arizona Cardinals,11,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_3,bin_1,bin_1,bin_2
+bin_2,San Francisco 49ers,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_2,St. Louis Rams,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_3,bin_1,bin_1,bin_1,bin_1
+bin_2,New England Patriots,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_3,bin_2,bin_0,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_3
+bin_2,New York Jets,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_2,Buffalo Bills,8,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_3,bin_3,bin_1,bin_2,bin_0,bin_2
+bin_2,Miami Dolphins,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2
+bin_2,Cincinnati Bengals,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_2,Pittsburgh Steelers,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3,bin_2,bin_0,bin_2,bin_2,bin_2,bin_3,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_2,Baltimore Ravens,5,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_0,bin_2,bin_3,bin_3,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_1
+bin_2,Cleveland Browns,3,bin_3,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1
+bin_2,Houston Texans,9,bin_1,bin_2,bin_1,bin_2,bin_3,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_2,Indianapolis Colts,8,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_2,Jacksonville Jaguars,5,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_2,Tennessee Titans,3,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_2,Denver Broncos,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1
+bin_2,Kansas City Chiefs,11,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_2,Oakland Raiders,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_3,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_2,San Diego Chargers,4,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_3,bin_3,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_2,Washington Redskins,9,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_2,Philadelphia Eagles,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2
+bin_2,New York Giants,6,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_3,bin_2,bin_1,bin_2
+bin_2,Dallas Cowboys,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_2,Minnesota Vikings,11,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_2,Green Bay Packers,10,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_3,bin_1,bin_0,bin_2
+bin_2,Detroit Lions,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_2,Chicago Bears,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_2,Carolina Panthers,15,bin_0,bin_3,bin_3,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_2,Atlanta Falcons,8,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2
+bin_2,New Orleans Saints,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_3,bin_3,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_3
+bin_2,Tampa Bay Buccaneers,6,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_3,bin_2,bin_2,bin_2,bin_2
+bin_2,Arizona Cardinals,13,bin_0,bin_3,bin_3,bin_3,bin_2,bin_3,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_3
+bin_2,Seattle Seahawks,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_0,bin_2
+bin_2,St. Louis Rams,7,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1
+bin_2,San Francisco 49ers,5,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1
+bin_2,New England Patriots,14,bin_0,bin_3,bin_3,bin_2,bin_2,bin_2,bin_0,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_2,Miami Dolphins,10,bin_1,bin_2,bin_1,bin_1,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_1
+bin_2,Buffalo Bills,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_3,bin_3,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_2
+bin_2,New York Jets,5,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_2,Pittsburgh Steelers,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_2,Baltimore Ravens,8,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_3,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1
+bin_2,Cincinnati Bengals,6,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_2,Cleveland Browns,1,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_2,Houston Texans,9,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_2,Tennessee Titans,9,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_2,Indianapolis Colts,8,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_2,Jacksonville Jaguars,3,bin_3,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_3,bin_2,bin_1,bin_1,bin_1
+bin_2,Kansas City Chiefs,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2
+bin_2,Oakland Raiders,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_3,bin_2,bin_2,bin_0,bin_2
+bin_2,Denver Broncos,9,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_2,San Diego Chargers,5,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2
+bin_2,Dallas Cowboys,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_3,bin_0,bin_2
+bin_2,New York Giants,11,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_2,Washington Redskins,8,bin_1,bin_2,bin_1,bin_2,bin_1,bin_3,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_3,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_2,Philadelphia Eagles,7,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1
+bin_2,Green Bay Packers,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_3,bin_0,bin_2
+bin_2,Detroit Lions,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_2,Minnesota Vikings,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1
+bin_2,Chicago Bears,3,bin_3,bin_0,bin_0,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_0,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_0,bin_1,bin_2,bin_1
+bin_2,Atlanta Falcons,11,bin_1,bin_2,bin_2,bin_3,bin_1,bin_3,bin_0,bin_0,bin_2,bin_2,bin_1,bin_3,bin_2,bin_0,bin_3,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_3,bin_0,bin_3
+bin_2,Tampa Bay Buccaneers,9,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_2,bin_3,bin_1,bin_2,bin_1
+bin_2,New Orleans Saints,7,bin_2,bin_1,bin_1,bin_3,bin_2,bin_3,bin_1,bin_1,bin_3,bin_3,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_1,bin_2
+bin_2,Carolina Panthers,6,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1
+bin_2,Seattle Seahawks,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_2,Arizona Cardinals,7,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_3,bin_2,bin_1,bin_2
+bin_2,Los Angeles Rams,4,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1
+bin_2,San Francisco 49ers,2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1
+bin_2,New England Patriots,13,bin_0,bin_3,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_3,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_3,bin_0,bin_2
+bin_2,Buffalo Bills,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1
+bin_2,Miami Dolphins,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_0,bin_3,bin_3,bin_2,bin_1,bin_2,bin_1
+bin_2,New York Jets,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_2,Pittsburgh Steelers,13,bin_0,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1
+bin_2,Baltimore Ravens,9,bin_1,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_1
+bin_2,Cincinnati Bengals,7,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1
+bin_2,Cleveland Browns,0,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_3,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_0,bin_3,bin_0
+bin_2,Jacksonville Jaguars,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1
+bin_2,Tennessee Titans,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1
+bin_2,Indianapolis Colts,4,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1
+bin_2,Houston Texans,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_2,bin_3,bin_1,bin_2,bin_1
+bin_2,Kansas City Chiefs,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_3,bin_0,bin_2
+bin_2,Los Angeles Chargers,9,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2
+bin_2,Oakland Raiders,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1
+bin_2,Denver Broncos,5,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_2,Philadelphia Eagles,13,bin_0,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_2,Dallas Cowboys,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1
+bin_2,Washington Redskins,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_2,New York Giants,3,bin_3,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1
+bin_2,Minnesota Vikings,13,bin_0,bin_3,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_0,bin_1
+bin_2,Detroit Lions,9,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1
+bin_2,Green Bay Packers,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_2,Chicago Bears,5,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1
+bin_2,New Orleans Saints,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_3,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_3,bin_0,bin_2
+bin_2,Carolina Panthers,11,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1
+bin_2,Atlanta Falcons,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1
+bin_2,Tampa Bay Buccaneers,5,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_2,Los Angeles Rams,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_1,bin_1
+bin_2,Seattle Seahawks,9,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_3,bin_3,bin_2,bin_1,bin_0,bin_1
+bin_2,Arizona Cardinals,8,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_3,bin_1,bin_1,bin_1
+bin_2,San Francisco 49ers,6,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1
+bin_2,New England Patriots,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_3
+bin_2,Miami Dolphins,7,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_2,Buffalo Bills,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1
+bin_2,New York Jets,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_0,bin_1,bin_2,bin_1
+bin_2,Baltimore Ravens,10,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_1,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_2,Pittsburgh Steelers,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_2,bin_3,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_3
+bin_2,Cleveland Browns,7,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_2,Cincinnati Bengals,6,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_2,Houston Texans,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_2,Indianapolis Colts,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_3,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_3
+bin_2,Tennessee Titans,9,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_2,Jacksonville Jaguars,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2,bin_1
+bin_2,Kansas City Chiefs,12,bin_0,bin_2,bin_2,bin_3,bin_1,bin_3,bin_1,bin_0,bin_3,bin_2,bin_2,bin_3,bin_3,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_3,bin_2,bin_3,bin_1,bin_3
+bin_2,Los Angeles Chargers,12,bin_0,bin_2,bin_2,bin_2,bin_0,bin_3,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_3
+bin_2,Denver Broncos,6,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_2,Oakland Raiders,4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_0,bin_1,bin_1,bin_2
+bin_2,Dallas Cowboys,10,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_2,Philadelphia Eagles,9,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_2,Washington Redskins,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_2,New York Giants,5,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_0,bin_1,bin_2,bin_0,bin_2,bin_2,bin_0,bin_2,bin_1,bin_2
+bin_2,Chicago Bears,12,bin_0,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_2
+bin_2,Minnesota Vikings,8,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_2,Green Bay Packers,6,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_0,bin_0,bin_1,bin_3,bin_1,bin_1,bin_2,bin_1,bin_2,bin_0,bin_2
+bin_2,Detroit Lions,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_2,New Orleans Saints,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_0,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_0,bin_3,bin_2,bin_2,bin_1,bin_3,bin_1,bin_2,bin_1,bin_2,bin_2,bin_3,bin_1,bin_3
+bin_2,Atlanta Falcons,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_3,bin_1,bin_1,bin_2,bin_3,bin_2,bin_3,bin_2,bin_0,bin_2,bin_2,bin_0,bin_0,bin_1,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3
+bin_2,Carolina Panthers,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_2,Tampa Bay Buccaneers,5,bin_2,bin_1,bin_1,bin_3,bin_2,bin_3,bin_2,bin_1,bin_3,bin_2,bin_2,bin_3,bin_2,bin_3,bin_3,bin_3,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2
+bin_2,Los Angeles Rams,13,bin_0,bin_3,bin_2,bin_3,bin_2,bin_3,bin_1,bin_0,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_3,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_3,bin_1,bin_3
+bin_2,Seattle Seahawks,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_0,bin_1,bin_2,bin_0,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_3,bin_2,bin_0,bin_2
+bin_2,San Francisco 49ers,4,bin_2,bin_0,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2
+bin_2,Arizona Cardinals,3,bin_3,bin_0,bin_0,bin_0,bin_0,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1
+bin_3,New England Patriots,12,bin_0,bin_2,bin_3,bin_2,bin_2,bin_1,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_3,Buffalo Bills,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_3,New York Jets,7,bin_2,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1
+bin_3,Miami Dolphins,5,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_3,bin_1,bin_1,bin_2
+bin_3,Baltimore Ravens,14,bin_0,bin_3,bin_3,bin_3,bin_2,bin_3,bin_0,bin_0,bin_3,bin_1,bin_0,bin_1,bin_2,bin_0,bin_2,bin_1,bin_3,bin_3,bin_2,bin_3,bin_3,bin_1,bin_1,bin_1,bin_3,bin_0,bin_3
+bin_3,Pittsburgh Steelers,8,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_3,bin_1,bin_2,bin_1
+bin_3,Cleveland Browns,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2
+bin_3,Cincinnati Bengals,2,bin_3,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_3,Houston Texans,10,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_3,Tennessee Titans,9,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_2,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2
+bin_3,Indianapolis Colts,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_1,bin_3,bin_2,bin_1,bin_2
+bin_3,Jacksonville Jaguars,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_0,bin_2,bin_3,bin_2,bin_1,bin_1,bin_2
+bin_3,Kansas City Chiefs,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_3,bin_0,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_3,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_3,bin_0,bin_3
+bin_3,Denver Broncos,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_3,bin_1,bin_0,bin_2
+bin_3,Oakland Raiders,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_0,bin_1,bin_1,bin_2
+bin_3,Los Angeles Chargers,5,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2
+bin_3,Philadelphia Eagles,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,Dallas Cowboys,8,bin_1,bin_1,bin_2,bin_3,bin_2,bin_3,bin_1,bin_0,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_3,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_3,bin_1,bin_3
+bin_3,New York Giants,4,bin_2,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2
+bin_3,Washington Redskins,3,bin_3,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_3,Green Bay Packers,13,bin_0,bin_3,bin_2,bin_1,bin_1,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_3,bin_2,bin_0,bin_2
+bin_3,Minnesota Vikings,10,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_3,Chicago Bears,8,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1
+bin_3,Detroit Lions,3,bin_2,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2
+bin_3,New Orleans Saints,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3,bin_0,bin_3
+bin_3,Atlanta Falcons,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_3,bin_3,bin_3,bin_3,bin_1,bin_1,bin_2,bin_3,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_3,bin_2,bin_1,bin_2
+bin_3,Tampa Bay Buccaneers,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_3,bin_2,bin_3,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2,bin_3,bin_2
+bin_3,Carolina Panthers,5,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2
+bin_3,San Francisco 49ers,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_3,bin_1,bin_3
+bin_3,Seattle Seahawks,11,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,Los Angeles Rams,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_3,Arizona Cardinals,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_3,Buffalo Bills,13,bin_0,bin_3,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_3,bin_2,bin_2,bin_3,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_3,bin_1,bin_3
+bin_3,Miami Dolphins,10,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2
+bin_3,New England Patriots,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2
+bin_3,New York Jets,2,bin_3,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_3,Pittsburgh Steelers,12,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_2,bin_3,bin_3,bin_2,bin_2,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_0,bin_0,bin_0,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_3,Baltimore Ravens,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_0,bin_3,bin_3,bin_2,bin_3,bin_3,bin_1,bin_2,bin_0,bin_3,bin_1,bin_3
+bin_3,Cleveland Browns,11,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3
+bin_3,Cincinnati Bengals,4,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_3,Tennessee Titans,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_3,bin_0,bin_0,bin_3,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2,bin_2,bin_2,bin_2,bin_3,bin_3,bin_2,bin_1,bin_1,bin_2,bin_3,bin_0,bin_3
+bin_3,Indianapolis Colts,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_3,bin_0,bin_3
+bin_3,Houston Texans,4,bin_2,bin_0,bin_1,bin_2,bin_0,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_0,bin_3,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_2,bin_1,bin_3
+bin_3,Jacksonville Jaguars,1,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_0,bin_2,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2
+bin_3,Kansas City Chiefs,14,bin_0,bin_3,bin_2,bin_3,bin_2,bin_3,bin_0,bin_1,bin_3,bin_2,bin_2,bin_3,bin_2,bin_0,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_3,bin_0,bin_3
+bin_3,Las Vegas Raiders,8,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_3,bin_2,bin_3
+bin_3,Los Angeles Chargers,7,bin_2,bin_1,bin_1,bin_2,bin_3,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_3,Denver Broncos,5,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_2
+bin_3,Washington Football Team,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2
+bin_3,New York Giants,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2
+bin_3,Dallas Cowboys,6,bin_2,bin_1,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,Philadelphia Eagles,4,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1,bin_3,bin_1,bin_2,bin_2
+bin_3,Green Bay Packers,13,bin_0,bin_3,bin_2,bin_2,bin_1,bin_3,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2,bin_3,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_3,bin_0,bin_3
+bin_3,Chicago Bears,8,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,Minnesota Vikings,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_3,bin_1,bin_1,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_3
+bin_3,Detroit Lions,5,bin_2,bin_1,bin_0,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,New Orleans Saints,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_3,bin_0,bin_3
+bin_3,Tampa Bay Buccaneers,11,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_2,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_3,bin_3,bin_0,bin_3
+bin_3,Carolina Panthers,5,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_2,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,Atlanta Falcons,4,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_3,bin_1,bin_2
+bin_3,Seattle Seahawks,12,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_2
+bin_3,Los Angeles Rams,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_3,Arizona Cardinals,8,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_3,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,San Francisco 49ers,6,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2
+bin_3,Buffalo Bills,11,bin_1,bin_2,bin_3,bin_2,bin_3,bin_2,bin_1,bin_0,bin_3,bin_2,bin_3,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_3,bin_1,bin_3
+bin_3,New England Patriots,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_3,bin_1,bin_2
+bin_3,Miami Dolphins,9,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2
+bin_3,New York Jets,4,bin_3,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_3,Cincinnati Bengals,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2
+bin_3,Pittsburgh Steelers,9,bin_1,bin_2,bin_1,bin_1,bin_3,bin_1,bin_1,bin_1,bin_2,bin_2,bin_3,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,Cleveland Browns,8,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2
+bin_3,Baltimore Ravens,8,bin_2,bin_1,bin_1,bin_2,bin_3,bin_2,bin_1,bin_0,bin_3,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,Tennessee Titans,12,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_3,Indianapolis Colts,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_0,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_3,Houston Texans,4,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_3,Jacksonville Jaguars,3,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_3,Kansas City Chiefs,12,bin_1,bin_2,bin_2,bin_3,bin_3,bin_2,bin_1,bin_1,bin_3,bin_3,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_3
+bin_3,Las Vegas Raiders,10,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_3,bin_2,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_3,Los Angeles Chargers,9,bin_1,bin_2,bin_1,bin_3,bin_3,bin_2,bin_1,bin_0,bin_3,bin_3,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_3
+bin_3,Denver Broncos,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,Dallas Cowboys,12,bin_1,bin_2,bin_3,bin_3,bin_3,bin_2,bin_1,bin_1,bin_3,bin_3,bin_2,bin_3,bin_2,bin_1,bin_2,bin_3,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_3
+bin_3,Philadelphia Eagles,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_2,bin_3,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2
+bin_3,Washington Football Team,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,New York Giants,4,bin_3,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_3,Green Bay Packers,13,bin_0,bin_3,bin_2,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_2,bin_3,bin_0,bin_3
+bin_3,Minnesota Vikings,8,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_0,bin_2
+bin_3,Chicago Bears,6,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1
+bin_3,Detroit Lions,3,bin_3,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2
+bin_3,Tampa Bay Buccaneers,13,bin_0,bin_3,bin_2,bin_3,bin_3,bin_3,bin_1,bin_0,bin_3,bin_3,bin_3,bin_3,bin_2,bin_1,bin_2,bin_3,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_3
+bin_3,New Orleans Saints,9,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2
+bin_3,Atlanta Falcons,7,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2
+bin_3,Carolina Panthers,5,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2,bin_0,bin_2,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1
+bin_3,Los Angeles Rams,12,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_3,bin_1,bin_3
+bin_3,Arizona Cardinals,11,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_3,bin_0,bin_2
+bin_3,San Francisco 49ers,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_3,Seattle Seahawks,7,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_3,Buffalo Bills,13,bin_0,bin_3,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_1,bin_3,bin_2,bin_3
+bin_3,Miami Dolphins,9,bin_1,bin_2,bin_1,bin_2,bin_1,bin_3,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,New England Patriots,8,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_3,New York Jets,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_3,Cincinnati Bengals,12,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_3,bin_2,bin_1,bin_3
+bin_3,Baltimore Ravens,10,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3,bin_3,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,Pittsburgh Steelers,9,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,Cleveland Browns,7,bin_2,bin_1,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,Jacksonville Jaguars,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,Tennessee Titans,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2
+bin_3,Indianapolis Colts,4,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1
+bin_3,Houston Texans,3,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1
+bin_3,Kansas City Chiefs,14,bin_0,bin_3,bin_2,bin_3,bin_2,bin_3,bin_1,bin_1,bin_3,bin_3,bin_2,bin_3,bin_2,bin_1,bin_3,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_3,bin_1,bin_3
+bin_3,Los Angeles Chargers,10,bin_1,bin_2,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_3,bin_3,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2
+bin_3,Las Vegas Raiders,6,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2
+bin_3,Denver Broncos,5,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_3,Philadelphia Eagles,14,bin_0,bin_3,bin_2,bin_3,bin_3,bin_2,bin_1,bin_1,bin_3,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_2,bin_3,bin_2,bin_3,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3
+bin_3,Dallas Cowboys,12,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,New York Giants,9,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_3,Washington Commanders,8,bin_1,bin_1,bin_1,bin_2,bin_3,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2
+bin_3,Minnesota Vikings,13,bin_0,bin_3,bin_1,bin_2,bin_3,bin_2,bin_1,bin_0,bin_3,bin_3,bin_3,bin_2,bin_1,bin_1,bin_1,bin_3,bin_1,bin_0,bin_2,bin_1,bin_1,bin_1,bin_1,bin_3,bin_2,bin_1,bin_2
+bin_3,Detroit Lions,9,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_3
+bin_3,Green Bay Packers,8,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,Chicago Bears,3,bin_3,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_0,bin_0,bin_3,bin_3,bin_2,bin_3,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_3,Tampa Bay Buccaneers,8,bin_2,bin_1,bin_1,bin_2,bin_3,bin_1,bin_1,bin_1,bin_2,bin_3,bin_3,bin_3,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_3,Carolina Panthers,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,New Orleans Saints,7,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_3,Atlanta Falcons,7,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_3,bin_2,bin_1,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_1,bin_2
+bin_3,San Francisco 49ers,13,bin_0,bin_3,bin_3,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_3
+bin_3,Seattle Seahawks,9,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,Los Angeles Rams,5,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2
+bin_3,Arizona Cardinals,4,bin_3,bin_0,bin_1,bin_1,bin_3,bin_1,bin_1,bin_0,bin_2,bin_3,bin_3,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1
+bin_3,Buffalo Bills,11,bin_1,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_1,bin_3,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_3,bin_1,bin_1,bin_1,bin_2,bin_2,bin_3
+bin_3,Miami Dolphins,11,bin_1,bin_2,bin_2,bin_3,bin_2,bin_3,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_3,bin_2,bin_1,bin_2,bin_3,bin_3,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,New York Jets,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_2,bin_1,bin_1,bin_1,bin_0
+bin_3,New England Patriots,4,bin_3,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_2,bin_1,bin_0,bin_2,bin_0,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1
+bin_3,Baltimore Ravens,13,bin_0,bin_3,bin_3,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_2,bin_1,bin_3,bin_2,bin_3,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2
+bin_3,Cleveland Browns,11,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_3,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1
+bin_3,Pittsburgh Steelers,10,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_2
+bin_3,Cincinnati Bengals,9,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_2,bin_2,bin_0,bin_2
+bin_3,Houston Texans,10,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_0,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2
+bin_3,Jacksonville Jaguars,9,bin_1,bin_2,bin_1,bin_2,bin_3,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_0,bin_1,bin_0,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2
+bin_3,Indianapolis Colts,9,bin_1,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_3,Tennessee Titans,6,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2
+bin_3,Kansas City Chiefs,11,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2
+bin_3,Las Vegas Raiders,8,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2
+bin_3,Denver Broncos,8,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,Los Angeles Chargers,5,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_2,bin_1,bin_2
+bin_3,Dallas Cowboys,12,bin_1,bin_2,bin_3,bin_2,bin_3,bin_2,bin_0,bin_0,bin_3,bin_3,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_3,bin_3,bin_0,bin_3
+bin_3,Philadelphia Eagles,11,bin_1,bin_2,bin_1,bin_2,bin_3,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2
+bin_3,New York Giants,6,bin_2,bin_1,bin_0,bin_1,bin_2,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_1
+bin_3,Washington Commanders,4,bin_3,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_2
+bin_3,Detroit Lions,12,bin_1,bin_2,bin_2,bin_3,bin_3,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3
+bin_3,Green Bay Packers,9,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_3
+bin_3,Minnesota Vikings,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_3,bin_1,bin_2,bin_2
+bin_3,Chicago Bears,7,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_2,bin_1,bin_1,bin_0,bin_2,bin_1,bin_2
+bin_3,Tampa Bay Buccaneers,9,bin_1,bin_2,bin_1,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
+bin_3,New Orleans Saints,9,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_2
+bin_3,Atlanta Falcons,7,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_1,bin_1
+bin_3,Carolina Panthers,2,bin_3,bin_0,bin_0,bin_0,bin_2,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_0,bin_1,bin_1,bin_1,bin_0,bin_1,bin_1,bin_1,bin_1,bin_2,bin_0,bin_1,bin_1
+bin_3,San Francisco 49ers,12,bin_1,bin_2,bin_3,bin_3,bin_1,bin_3,bin_1,bin_0,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3,bin_2,bin_2,bin_2,bin_3,bin_2,bin_2,bin_1,bin_2,bin_1,bin_3,bin_1,bin_3
+bin_3,Los Angeles Rams,10,bin_1,bin_2,bin_1,bin_2,bin_2,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_1,bin_1,bin_2,bin_2,bin_0,bin_2
+bin_3,Seattle Seahawks,9,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_0,bin_0,bin_1,bin_2,bin_2,bin_2,bin_1,bin_1,bin_2,bin_1,bin_0,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_2,bin_2,bin_0,bin_2
+bin_3,Arizona Cardinals,4,bin_3,bin_0,bin_0,bin_1,bin_2,bin_1,bin_1,bin_0,bin_2,bin_2,bin_2,bin_1,bin_0,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_2
