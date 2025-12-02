@@ -1,21 +1,12 @@
-#-------------------------------------------------------------------------
-# AUTHOR: Kate Yuan
-# FILENAME: naive_bayes.py
-# SPECIFICATION: description of the program
-# FOR: CS 4210- Assignment #2
-# TIME SPENT: 30 mins
-#-----------------------------------------------------------*/
-
-#IMPORTANT NOTE: YOU ARE ALLOWED TO USE ANY PYTHON LIBRARY TO COMPLETE THIS PROGRAM
-
 #Importing some Python libraries
-from sklearn.naive_bayes import GaussianNB
+from sklearn.naive_bayes import GaussianNB, CategoricalNB
 import pandas as pd
 from imblearn.over_sampling import SMOTE
 
 
 dbTraining = []
 dbTest = []
+
 
 #Reading the training data using Pandas
 df = pd.read_csv('training.csv')
@@ -44,7 +35,8 @@ featureColumns = X_res.columns
 mappings = {}
 for col in featureColumns:
     categories = X_res[col].unique().tolist()
-    mappings[col] = {cat: i+1 for i, cat in enumerate(categories)}
+    # CategoricalNB requires non-negative integers starting from 0
+    mappings[col] = {cat: i for i, cat in enumerate(categories)}  # Start from 0, not 1
     X_res[col] = X_res[col].map(mappings[col])
 
 X = X_res[featureColumns].values
@@ -55,44 +47,8 @@ classMap = {cat: i+1 for i, cat in enumerate(classCategories)}
 Y_res = Y_res.map(classMap)
 
 Y = Y_res.values
-#print(Y)
 
-
-
-#Transform the original training features to numbers and add them to the 4D array X.
-#For instance Sunny = 1, Overcast = 2, Rain = 3, X = [[3, 1, 1, 2], [1, 3, 2, 2], ...]]
-#--> add your Python code here
-# X = []
-# one = ['Sunny', 'Hot', 'High', 'Strong']
-# two = ['Overcast', 'Mild', 'Normal', 'Weak']
-# three =['Rain', 'Cool']
-# rowLen = len(dbTraining[0])
-# for i in range(len(dbTraining)):
-#   X.append([])
-#   for j in range(rowLen - 1):
-#     if dbTraining[i][j] in one:
-#         X[i].append(1)
-#     elif dbTraining[i][j] in two:
-#         X[i].append(2)
-#     elif dbTraining[i][j] in three:
-#         X[i].append(3)
-# #print(X)
-
-# #Transform the original training classes to numbers and add them to the vector Y.
-# #For instance Yes = 1, No = 2, so Y = [1, 1, 2, 2, ...]
-# #--> add your Python code here
-# Y = []
-# values = ["Yes", "No"]
-# rowLen = len(dbTraining[0])
-# for i in range(len(dbTraining)):
-#   if dbTraining[i][rowLen - 1] == values[0]:
-#       Y.append(1)
-#   elif dbTraining[i][rowLen - 1] == values[1]:
-#       Y.append(2)
-
-#Fitting the naive bayes to the data using smoothing
-#--> add your Python code here
-clf = GaussianNB()
+clf = CategoricalNB()
 clf = clf.fit(X, Y) #.predict(X_test)
 
 
@@ -106,7 +62,10 @@ testX = []
 for row in dbTest:
     test_features = []
     for j, col in enumerate(featureColumns):
-        test_features.append(mappings[col].get(row[j], -1))
+        # CategoricalNB requires non-negative integers, use 0 as default instead of -1
+        # If value not found, use the first category (index 0)
+        default_value = 0 if len(mappings[col]) > 0 else 0
+        test_features.append(mappings[col].get(row[j], default_value))
     testX.append(test_features)
 
 
@@ -116,7 +75,8 @@ headers = df_test.columns.tolist()
 for name in headers:
    print(f'{name:<8}', end = "")
 print(" ", end = "")
-print('Confidence')
+print('Confidence', end="  ")
+print('Predicted Class')
 
 #Use your test samples to make probabilistic predictions. For instance: clf.predict_proba([[3, 1, 2, 1]])[0]
 #--> add your Python code here
@@ -132,29 +92,69 @@ original_class_1 = reverseClassMap.get(2)  # Original class that was mapped to 2
 # Optional: create readable labels (0 = "No", 1 = "Yes")
 label_map = {0: "No", 1: "Yes"}
 
+correct = 0
+tp = 0
+tn = 0
+fp = 0
+fn = 0
+total = 0
 count = 0
+
 for i in testX:
    prob = clf.predict_proba([i])[0]
-   if(prob[0] > 0.30):
+   #print(prob)
+   # Get the actual class from test data (last column in the row)
+   actual_class = dbTest[count][-1]  # This is 0 or 1 from the test CSV
+   
+   if(prob[0] >= 0.7):
+      p = 0
+      total += 1
       row = df_test.loc[count]
       predicted_class = original_class_0  # This is 0 or 1
       for val in row:
-        if val == '?':
-            # Print the actual class value (0 or 1), or use label_map for readable output
+        if val == '0.0':
+            # Print the predicted class value (0 or 1)
             print(f'{predicted_class:<8}', end = "")
         else:
             print(f'{val:<11}', end = "")
-      print(round(prob[0], 3))
-   elif(prob[1] > 0.30):
+      print(f'{round(prob[0], 3):<11}', end="  ")
+      print(predicted_class)  # Print predicted class instead of actual
+      if p == actual_class:
+        correct += 1
+        tn += 1
+      else:
+        fn += 1
+    
+   elif(prob[1] >= 0.7):
+      p = 1
+      total += 1
       row = df_test.loc[count]
       predicted_class = original_class_1  # This is 0 or 1
       for val in row:
-        if val == '?':
-            # Print the actual class value (0 or 1), or use label_map for readable output
+        if val == '1.0':
+            # Print the predicted class value (0 or 1)
             print(f'{predicted_class:<8}', end = "")
         else:
             print(f'{val:<11}', end = "")
-      print(round(prob[1], 3))
+      print(f'{round(prob[1], 3):<11}', end="  ")
+      print(predicted_class)  # Print predicted class instead of actual
+      if p == actual_class:
+        correct += 1
+        tp += 1
+      else:
+        fp += 1
+    
    count+= 1
 
-
+accuracy = correct/total
+precison = tp / float(tp+fp)
+recall = tp / float(tp+fn)
+f1 = 2 / ((1/precison) + (1/recall))
+print(f"Accuracy: {accuracy}" )
+print(f"True Positive: {tp}")
+print(f"True Negative: {tn}")
+print(f"False Positive: {fp}")
+print(f"False Negative: {fn}")
+print(f"Precison: {precison}")
+print(f"Recall: {recall}")
+print(f"F1: {f1}")

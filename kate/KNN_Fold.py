@@ -15,7 +15,7 @@ y = data["win_superbowl"]
 # db = df.values.tolist()  # all numeric now
 
 db = np.array(data)
-num_folds = 32
+num_folds = 28
 
 # Shuffle before splitting into folds
 np.random.shuffle(db)
@@ -47,7 +47,7 @@ for fold in folds:
     #print("After SMOTE:\n", pd.Series(Y_res).value_counts())
 
     # Train classifier with k = 1
-    clf = KNeighborsClassifier(n_neighbors=19, metric='euclidean')
+    clf = KNeighborsClassifier(n_neighbors=18, metric='euclidean')
     clf.fit(X_res, Y_res)
 
     # Predict all samples in this fold

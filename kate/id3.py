@@ -5,6 +5,7 @@ from sklearn import tree
 import pandas as pd
 from imblearn.over_sampling import SMOTE
 import matplotlib.pyplot as plt
+import numpy as np
 
 ds ='training.csv'
 data = pd.read_csv('training.csv')
@@ -17,12 +18,6 @@ for _, row in df_test.iterrows():
     dbTest.append(row.tolist())
 
 count_class = y.value_counts()
-# plt.bar(count_class.index, count_class.values)
-# plt.xlabel('Class')
-# plt.ylabel('Count')
-# plt.title('Class Distribution (Before SMOTE)')
-# plt.xticks(count_class.index, ['Class 0', 'Class 1'])
-# plt.show()
 
 smote = SMOTE(sampling_strategy='minority')
 X_res, Y_res = smote.fit_resample(X, y)
